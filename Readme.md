@@ -7,4 +7,4 @@ Thank you for taking the time to read my Read Me! This repository is a process o
 * Sinatra
 
 
-Many thanks goes out to @rift137 for you help in the journey!
+Many thanks goes out to [@rift137](https://github.com/rift137) for you help in the journey!
