@@ -7,4 +7,4 @@ This repository is a process of logging and storing personal projects as I learn
 * Sinatra
 
 
-Many thanks goes out to [@rift137](https://github.com/rift137) for you help in the journey!
+Many thanks goes out to [@rift137](https://github.com/rift137) for your help in the journey!
