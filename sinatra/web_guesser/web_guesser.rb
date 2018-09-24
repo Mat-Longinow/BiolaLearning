@@ -1,9 +1,12 @@
 require 'sinatra'
 require 'sinatra/reloader'
 
-number = rand(101)
+SECRET_NUMBER = rand(101)
 
 get '/' do
-	erb :index, locals: {number: number}
-	throw params.inspect
+	erb :index, {locals: {number: SECRET_NUMBER}},
+
+	guess = params["guess"]
+
+	{locals: {guess: guess}}
 end
